@@ -9,6 +9,7 @@
       }
     ],
     "disabledExtensions": [],
-    "settingsOverrides": {}
+    "settingsOverrides": {},
+    "defaultKernelName": "webr"
   }
 }
