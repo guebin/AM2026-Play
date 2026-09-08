@@ -8,9 +8,6 @@
       "repl",
       "notebooks",
       "tree"
-    ],
-    "settings_overrides": [
-      "overrides.json"
     ]
   }
 }
