@@ -1,0 +1,8 @@
+_output/
+dist/
+.venv/
+.jupyterlite.doit.db
+__pycache__/
+*.pyc
+node_modules/
+.ipynb_checkpoints
