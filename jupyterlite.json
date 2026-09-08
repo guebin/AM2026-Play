@@ -9,14 +9,14 @@
           {
             "command": "console:run-forced",
             "keys": [
-              "Shift Enter"
+              "Accel Enter"
             ],
             "selector": ".jp-CodeConsole[data-jp-interaction-mode='terminal'] .jp-CodeConsole-promptCell"
           },
           {
             "command": "console:run-forced",
             "keys": [
-              "Shift Enter"
+              "Accel Enter"
             ],
             "selector": ".jp-CodeConsole-promptCell"
           }
