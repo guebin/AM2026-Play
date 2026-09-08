@@ -1,6 +1,16 @@
 {
   "LiteBuildConfig": {
-    "contents": ["content"],
-    "apps": ["lab", "repl", "notebooks", "tree"]
+    "contents": [
+      "content"
+    ],
+    "apps": [
+      "lab",
+      "repl",
+      "notebooks",
+      "tree"
+    ],
+    "settings_overrides": [
+      "overrides.json"
+    ]
   }
 }

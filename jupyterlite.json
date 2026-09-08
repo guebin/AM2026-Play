@@ -3,26 +3,7 @@
   "jupyter-config-data": {
     "federated_extensions": [],
     "disabledExtensions": [],
-    "settingsOverrides": {
-      "@jupyterlab/shortcuts-extension:shortcuts": {
-        "shortcuts": [
-          {
-            "command": "console:run-forced",
-            "keys": [
-              "Accel Enter"
-            ],
-            "selector": ".jp-CodeConsole[data-jp-interaction-mode='terminal'] .jp-CodeConsole-promptCell"
-          },
-          {
-            "command": "console:run-forced",
-            "keys": [
-              "Accel Enter"
-            ],
-            "selector": ".jp-CodeConsole-promptCell"
-          }
-        ]
-      }
-    },
+    "settingsOverrides": {},
     "defaultKernelName": "webr"
   }
 }
